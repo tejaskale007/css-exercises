@@ -1,0 +1,21 @@
+.odd-number-class {
+    background-color: #ffb6c1;
+    /* light red/pink background, and a list of fonts containing Verdana and DejaVu Sans with sans-serif as a fallback */
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id-selector {
+    /* blue text and a font size of 36px */
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.number-3-class {
+    font-size: 24px;
+}
+.fourth-element-class {
+    /*  light green background, a font size of 24px, and bold */
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
